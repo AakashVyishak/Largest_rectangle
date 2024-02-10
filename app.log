@@ -1,0 +1,64 @@
+INFO:root:Request received at 2024-02-10 20:07:07.677334: [[1, 1, 1, 0, 0], [1, 1, 1, 1, 1], [1, 1, 1, 1, 0]]
+INFO:root:Response sent at 2024-02-10 20:07:07.677334: area=8, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:43:40.507611: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:43:40.508611: area=12, Turnaround time: 0:00:00.001000
+INFO:root:Request received at 2024-02-10 20:45:16.946529: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:45:16.946529: area=6, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:46:14.884123: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:46:14.884123: area=12, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:49:34.732276: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 20:50:37.387234: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:50:37.387234: area=6, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:51:38.632088: [[1, 1, 1, 0, 1, -9]]
+INFO:root:Response sent at 2024-02-10 20:51:38.632088: 3, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:52:29.772994: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:52:29.772994: area=12, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:53:02.184002: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:53:02.184002: area=6, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 20:55:29.719396: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 20:55:31.213712: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 20:55:32.568754: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 20:56:30.276236: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 20:56:43.807874: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 20:56:43.807874: area=12, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:00:28.766607: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 21:02:15.376404: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 21:02:42.537866: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:02:42.537866: area=4 number=5, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:04:52.963329: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:04:52.963329: area=12, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:05:33.590259: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:05:33.591289: area=12, Turnaround time: 0:00:00.001030
+INFO:root:Request received at 2024-02-10 21:05:59.417683: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:05:59.417683: area=8, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:13:24.393127: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:13:24.393127: area=12, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:13:42.620101: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:13:42.620101: area=8, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:13:59.560127: [[1, 1, 1, 0, 1, -9]]
+INFO:root:Response sent at 2024-02-10 21:13:59.560127: area=3, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:34:11.010339: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:34:11.010339: [1, 0, -9, 2, 5], Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:40:24.223139: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:40:24.224171: area=8 max_nums=1, Turnaround time: 0:00:00.001032
+INFO:root:Request received at 2024-02-10 21:40:42.397763: [[1, 1, 1, 0, 1, -9]]
+INFO:root:Response sent at 2024-02-10 21:40:42.397763: area=3 max_nums=1, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:46:37.807356: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:46:37.807356: area=8 max_nums=1, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:47:50.731372: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:47:50.731372: area=8 max_nums=1, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:48:35.708628: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:48:35.708628: area=8 num=1, Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:52:57.277846: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:52:57.277846: (1, 8), Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:54:32.092554: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Request received at 2024-02-10 21:54:51.309412: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:54:51.309412: (1, 8), Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 21:56:21.911247: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:56:21.912243: (1, 8), Turnaround time: 0:00:00.000996
+INFO:root:Request received at 2024-02-10 21:56:33.638988: [[1, 1, 1, 1, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 21:56:33.638988: (1, 12), Turnaround time: 0:00:00
+INFO:root:Request received at 2024-02-10 22:07:46.082090: [[1, 1, 1, 1, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 22:07:46.083104: (1, 12), Turnaround time: 0:00:00.001014
+INFO:root:Request received at 2024-02-10 22:11:29.213823: [[1, 1, 1, 0, 1, -9], [1, 1, 1, 1, 2, -9], [1, 1, 1, 1, 2, -9], [1, 0, 0, 0, 5, -9], [5, 0, 0, 0, 5]]
+INFO:root:Response sent at 2024-02-10 22:11:29.213823: (1, 8), Turnaround time: 0:00:00
